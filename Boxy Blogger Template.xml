@@ -3545,7 +3545,7 @@ head.appendChild(script);
     </div>
 
 &lt;/div&gt;
-<script ' type='text/javascript'>
+<script  type='text/javascript'>
 var $ = jQuery;
   $(&#39;.boxy-serch&#39;).click(function(){
 
